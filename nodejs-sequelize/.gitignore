@@ -22,4 +22,4 @@ yarn-error.log*
 
 /node_modules
 .env
-/envConfig.env
+/dbConfig.env
