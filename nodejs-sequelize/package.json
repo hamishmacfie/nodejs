@@ -11,8 +11,12 @@
   "author": "Hamish Macfie",
   "license": "MIT",
   "dependencies": {
+    "@sequelize/core": "^7.0.0-alpha.10",
+    "axios": "^0.26.0",
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
+    "express-async-handler": "^1.2.0",
+    "mysql2": "^2.3.3",
     "sequelize": "^6.16.0"
   }
 }
